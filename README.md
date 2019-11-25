@@ -1,6 +1,6 @@
 
 ## Sample Project for JUnit Assignment.
-## Deadline : May 5, 2019 23:59
+## Deadline : Dec 01, 2019 23:59
 
 The Repository contains a maven project with queue extended from [Princeton's Intro to programming](https://introcs.cs.princeton.edu/java/43stack/) sample.
 The "enqueue" method has a bug : The developer has forgot to throw an exception when the queue is full.
